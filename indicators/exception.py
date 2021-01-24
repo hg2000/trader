@@ -1,0 +1,2 @@
+class IndicatorException(BaseException):
+    pass

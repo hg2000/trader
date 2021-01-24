@@ -1,0 +1,14 @@
+{
+    "name": "Breakout",
+    "mode": "live",
+    "symbols": [
+        "EURUSD", "AUDUSD", "USDJPY", "EURCHF", "NZDUSD", "EURAUD", "USDCAD"
+    ],
+    "parameters": {
+        "window_breakout": 20,
+        "timeframe": "m15",
+        "stop": 15,
+        "trailing": 7,
+        "limit": ""
+    }
+}

@@ -1,0 +1,8 @@
+pandas
+plotly
+psutil
+mpl_finance
+matplotlib
+munch
+mysql-connector-python
+python-dotenv
