@@ -20,6 +20,6 @@ python3.6 optimize.py
 Backtest:
 python3.6 backtest.py
 
-Live Trading (Dn't do it on a Live Account !)
+Live Trading (Don't do it on a Live Account !)
 python3.6 run.py
 
